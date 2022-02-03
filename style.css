@@ -1,0 +1,74 @@
+*{
+    background-color: black;
+    background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/eb482c64-e879-4e88-9ddc-d839cb7d1232/b6ea033e-643c-464c-8951-2b7fd48b9e48/US-en-20220131-popsignuptwoweeks-perspective_alpha_website_large.jpg");
+}
+img{
+    width: 300px;
+    height: auto;
+}
+.language{
+    background-color: black;
+    border-color: #f3f3f3;
+    border-width: 1px;
+    color: #f3f3f3;
+    position:absolute; right:150px; top:40px;
+    font-size: 15px;
+    padding: 5px;
+}
+.signin{
+    background-color: #E50914;
+    color: #f3f3f3;
+    border-color: #E50914;
+    border-radius: 10%;
+    position: absolute; right:50px; top:40px;
+    font-size: 15px;
+    padding: 5px;
+}
+h1{
+    text-align: center;
+    color: #f3f3f3;
+    font-size: 60;
+    font-family: sans-serif;
+}
+h2{
+    text-align: center;
+    color: #f3f3f3;
+    font-size: 30;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+h3{
+    text-align: center;
+    color: #f3f3f3;
+    font-size: 20;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+form{
+    text-align: center;
+    color: #f3f3f3;
+    padding: 10px;
+}
+
+input[type="text"], textarea {
+    background-color: #f3f3f3; 
+    font-size: 15px;
+    padding: 20px 285px 15.5px 8px;
+    margin-right: 0;
+    border-color: #f3f3f3;
+    /* padding: 1.4em 20em 1em .8em; */
+    font-family: sans-serif;
+}
+.get_started{
+    background-color: #E50914;
+    color: #f3f3f3;
+    border-color: #E50914;
+    border-radius: 0 3% 3% 0;
+    font-family: sans-serif;
+    font-weight: 200;
+    font-size: 23px;
+    padding: 12px 25px 15px 25px;
+    margin-left: -3px;
+    /* padding: .5em .9em .5em .9em; */
+   
+}
